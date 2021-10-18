@@ -1,6 +1,6 @@
 {
-  "name": "@canivete-suico/core",
-  "version": "1.0.0",
+  "name": "canivete-suico",
+  "version": "1.0.1",
   "description": "Abstração dos componentes do material-ui",
   "main": "lib/index.js",
   "module": "src/index.js",
