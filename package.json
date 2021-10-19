@@ -1,6 +1,6 @@
 {
   "name": "@canivete-suico/root",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
@@ -17,13 +17,9 @@
     "@storybook/addon-docs": "^6.3.12",
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.3.12",
-    "babel-core": "7.0.0-bridge.0",
-    "babel-loader": "^8.2.2",
-    "babel-plugin-styled-components": "^1.13.3",
     "lerna": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "styled-components": "^5.3.1",
     "webpack": "^5.58.2"
   }
 }

@@ -1,18 +1,16 @@
 {
-  "name": "canivete-suico",
-  "version": "1.0.2",
+  "name": "@canivete-suico/core",
+  "version": "1.0.4",
   "description": "Abstração dos componentes do material-ui",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.11.4",
     "react": "latest",
-    "react-dom": "latest",
-    "styled-components": "latest"
+    "react-dom": "latest"
   },
   "peerDependencies": {
     "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "styled-components": "^5.0.0"
+    "react-dom": "^16.0.0"
   }
 }
